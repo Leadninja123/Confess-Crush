@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Lường Thị Linh Chi',
     introDesc: `Trả lời thật lòng nha :)`,
     btnIntro: '^^HiHi^^',
-    title: 'chị chọn đi 🥰',
+    title: 'chị chọn đi :3 🥰',
     desc: 'thật lòng nhé ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
